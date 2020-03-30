@@ -1,5 +1,7 @@
 ## Generates poetry based on the input
 
 TODO:
- * move to package manager
+ * ~move to package manager~
  * write UI
+ * test markov gen
+ * isolate as a component

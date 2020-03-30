@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "0.0.0",
+  "description": "helpful tool to write some rhhymes with you",
+  "main": "index.js",
+  "author": "saintsebastian",
+  "license": "y",
+  "private": false,
+  "dependencies": {
+    "browserify": "^16.5.0",
+    "p5": "^1.0.0",
+    "rita": "^1.3.94"
+  }
+}
